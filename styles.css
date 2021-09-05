@@ -78,6 +78,7 @@ header .navi{
     display: flex;
 }
 header .navi li a{
+    list-style: none;
     margin-left: 20px;
     text-decoration: none;
     color: black;
